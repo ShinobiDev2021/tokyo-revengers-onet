@@ -1,0 +1,25 @@
+{
+  "ads_config": {
+    "ad_waterfall": [
+      "admob",
+      "unity"
+    ],
+    "ad_time": 0,
+    "ad_model": [
+      {
+        "name": "admob",
+        "app_id": "ca-app-pub-8118635853638933~6608402421",
+        "banner_id": "ca-app-pub-8118635853638933/3108141111",
+        "popup_id": "ca-app-pub-8118635853638933/1256196913",
+        "reward_id": "ca-app-pub-8118635853638933/6225259047"
+      },
+       {
+        "name": "unity",
+        "app_id": "4163869",
+        "banner_id": "banner",
+        "popup_id": "video",
+        "reward_id": "video"
+      }
+    ]
+  }
+}
